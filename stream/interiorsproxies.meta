@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SInteriorOrderData>
+    <startFrom value="3000"/>
+    <proxies>
+	<Item>ak_container_coffee_small_milo_</Item>
+	<Item>paleto247_milo_</Item>
+	<Item>paletoliquor_milo_</Item>
+	<Item>westeclipseXERO_milo_</Item>
+	<Item>int_cityhall_milo_</Item>
+	<Item>patoche_billard_milo_</Item>
+	<Item>brown_amfsted_milo_</Item>
+	<Item>brown_amfsted2_milo_</Item>
+	<Item>brown_amfsted3_milo_</Item>
+	<Item>brown_amfsted4_milo_</Item>
+	<Item>taco_milo_</Item>
+	<Item>labs_milo</Item>
+	<Item>arcade_milo_</Item>
+	<Item>dt1_05_interior_v_fib01_milo_</Item>
+	<Item>shop247_mlo</Item>
+	<Item>hps_milo</Item>
+	<Item>salieri_milo</Item>
+	<Item>int_weed_milo_</Item>
+	<Item>carmeet_milo_</Item>
+	<Item>denis3d_tunershop_milo_</Item>
+	<Item>hedwig_hunt_milo_</Item>
+	<Item>paleto_pawnshop_milo_</Item>
+	<Item>anonymous_milo_</Item>
+	<Item>patoche_cyber_milo_</Item>
+	<Item>shop_nord_milo_</Item>
+	<Item>int_patoche_shop2_nord_milo_</Item>
+	<Item>int_mecano_nord_milo_</Item>
+	<Item>int_patoche_wc_milo_</Item>
+	<Item>patoche_secret_bossroom_milo_</Item>
+	<Item>patoche_shop_milo_</Item>
+	<Item>westvinewood_sexsmilo01_milo_</Item>
+	<Item>int_taxi_milo_</Item>
+	<Item>verpi_hookah_milo_</Item>
+	<Item>sc1_29_motel_shell_milo_</Item>
+	<Item>com_md653_milo_</Item>
+	<Item>grove_house01_garage_milo_</Item>
+	<Item>grove_house01_milo_</Item>
+	<Item>int_beachcon_milo_</Item>
+	<Item>kambi_canyon2_milo_</Item>
+	<Item>dons_apple_milo_</Item>
+	<Item>int_mafc_milo_</Item>
+	<Item>int_parkrls_milo_</Item>
+    </proxies>
+</SInteriorOrderData>
